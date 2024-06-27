@@ -1,0 +1,7 @@
+C:\Users\sujan\Downloads\webapp\firstdotnet\bin\Publish\firstdotnet.exe
+C:\Users\sujan\Downloads\webapp\firstdotnet\bin\Publish\appsettings.Development.json
+C:\Users\sujan\Downloads\webapp\firstdotnet\bin\Publish\appsettings.json
+C:\Users\sujan\Downloads\webapp\firstdotnet\bin\Publish\firstdotnet.dll
+C:\Users\sujan\Downloads\webapp\firstdotnet\bin\Publish\firstdotnet.deps.json
+C:\Users\sujan\Downloads\webapp\firstdotnet\bin\Publish\firstdotnet.runtimeconfig.json
+C:\Users\sujan\Downloads\webapp\firstdotnet\bin\Publish\firstdotnet.pdb

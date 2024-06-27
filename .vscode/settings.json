@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "firstdotnet.sln",
+    "appService.defaultWebAppToDeploy": "/subscriptions/f60f0d64-10fc-40fb-8a86-ae56b6e55038/resourceGroups/rg-app/providers/Microsoft.Web/sites/sujwebapp",
+    "appService.deploySubpath": "firstdotnet\\bin\\Publish"
+}
